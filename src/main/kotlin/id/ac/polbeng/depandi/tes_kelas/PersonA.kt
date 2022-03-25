@@ -16,3 +16,6 @@ fun main(){
     println("Name : ${desi.firstName} ${desi.lastName}")
     println("Age : ${desi.age}")
 }
+
+//parameter dari konstruktor utama dapat digunakan dlam blok inisialisasi. ia juga
+//dapat digunakan untuk menganalisis property yang dideklarasikan dalam tubuh kelas.

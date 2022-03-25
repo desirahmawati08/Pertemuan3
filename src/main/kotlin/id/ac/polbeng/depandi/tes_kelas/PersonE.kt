@@ -25,3 +25,6 @@ fun main(){
 }
 
 //konstruktor tambahan bisa didefenisikan lebih dari satu.
+//key this merujuk pada konstruktor kelas saat ini yang bersesuaian.
+//pada contoh diatas this(firstName_lastName) merujuk pada kontruktor yang berwarna kuning dan akan memanggilnya
+//terlebih dahulu sebelum kode didalam konstruktor yang berwarna hijau dieksekusi.
